@@ -28,7 +28,14 @@ A modern e-commerce web app built with **Next.js**. Browse products by category,
 - [Redux Toolkit](https://redux-toolkit.js.org/) for client state
 - [Motion](https://motion.dev/) for animations
 - [React Icons](https://react-icons.github.io/react-icons/) and [React Toastify](https://fkhadra.github.io/react-toastify/)
-- Data from the Route E-commerce API (`https://ecommerce.routemisr.com`)
+- Data from the [Route E-commerce API](https://documenter.getpostman.com/view/5709532/2s93JqTRWN#b86bd80f-2214-4378-8743-94e38edc0a24) (`https://ecommerce.routemisr.com`)
+
+## Resources
+
+| Resource | Link |
+| -------- | ---- |
+| API documentation (Postman) | [Route E-commerce App](https://documenter.getpostman.com/view/5709532/2s93JqTRWN#b86bd80f-2214-4378-8743-94e38edc0a24) |
+| Design (Figma) | [FreshCart - E-Commerce](https://www.figma.com/design/7GOjynvDWj2Lnbb4IKjbXK/Freshcart---E-Commerce-?node-id=54-23995&t=bznJ2UEbrAxs72MB-0) |
 
 ## Getting Started
 
